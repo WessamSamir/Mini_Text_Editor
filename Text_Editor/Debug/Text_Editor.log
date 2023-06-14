@@ -1,0 +1,12 @@
+﻿  MiniText.cpp
+D:\mini_text_editor\Text_Editor\Text_Editor\MiniText.cpp(221,20): warning C4018: '<': signed/unsigned mismatch
+D:\mini_text_editor\Text_Editor\Text_Editor\MiniText.cpp(230,21): warning C4018: '<': signed/unsigned mismatch
+D:\mini_text_editor\Text_Editor\Text_Editor\MiniText.cpp(266,20): warning C4018: '<': signed/unsigned mismatch
+D:\mini_text_editor\Text_Editor\Text_Editor\MiniText.cpp(274,21): warning C4018: '<': signed/unsigned mismatch
+D:\mini_text_editor\Text_Editor\Text_Editor\MiniText.cpp(281,22): warning C4018: '<': signed/unsigned mismatch
+D:\mini_text_editor\Text_Editor\Text_Editor\MiniText.cpp(286,15): warning C4018: '<': signed/unsigned mismatch
+D:\mini_text_editor\Text_Editor\Text_Editor\MiniText.cpp(419,23): warning C4018: '<': signed/unsigned mismatch
+D:\mini_text_editor\Text_Editor\Text_Editor\MiniText.cpp(427,24): warning C4018: '<': signed/unsigned mismatch
+D:\mini_text_editor\Text_Editor\Text_Editor\MiniText.cpp(434,52): warning C4018: '<': signed/unsigned mismatch
+D:\mini_text_editor\Text_Editor\Text_Editor\MiniText.cpp(439,18): warning C4018: '<': signed/unsigned mismatch
+  Text_Editor.vcxproj -> D:\mini_text_editor\Text_Editor\Debug\Text_Editor.exe
